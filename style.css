@@ -1,0 +1,61 @@
+img {
+    width: 350px;
+    border: 5px solid lightsteelblue ;
+    border-radius: 25px;
+}
+
+body {
+    text-align: center ;
+    font-family: 'Courier' ;
+    background: azure;
+    color: lightskyblue;
+    font-size: 20px;
+}
+
+.desc {
+    border: 5px solid lightskyblue;
+    margin-left: 18%;
+    margin-right: 18%;
+    margin-bottom: 2%;
+    border-radius: 20px;
+}
+
+.linkOrder {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+p {
+    border-top: 5px dashed lightskyblue;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+.first {
+    border-top: 0px dashed lightskyblue;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+a {
+    padding-left: 3%;
+    padding-right: 3%;
+    color: skyblue;
+    background-color: cadetblue;
+    border: 5px solid lightskyblue;
+    margin-top: 2%;
+    border-radius: 20px;
+}
+
+.specialLink {
+    padding-left: 0%;
+    padding-right: 0%;
+    color: skyblue;
+    background-color: rgba(255, 255, 255, 0);
+    border: 0px solid lightskyblue;
+    margin-top: 2%;
+    border-radius: 20px;
+}
